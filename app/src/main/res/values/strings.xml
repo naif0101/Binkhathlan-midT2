@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Binkhathlan-midT2</string>
+    <string-array name="cities">
+        <item>London</item>
+        <item>Paris</item>
+        <item>Riyadh</item>
+    </string-array>
+</resources>
